@@ -1,4 +1,4 @@
 DjORM
 =====
 
-Lightwiehght wrapper and helpers around the Django ORM.
+Lightweight wrapper and helpers around the Django ORM.
